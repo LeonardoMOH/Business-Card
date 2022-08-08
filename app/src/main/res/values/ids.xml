@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_nome" type="id">tv_nome</item>
+    <item name="tv_email" type="id">tv_email</item>
+    <item name="cd_content" type="id">tv_content</item>
+</resources>
